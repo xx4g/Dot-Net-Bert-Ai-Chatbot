@@ -61,6 +61,10 @@ what is the capital of the United States
 Tokens: washington dc
 Probability: 0.94
 ```
+![image](https://github.com/user-attachments/assets/1bc70ae4-3128-41e3-bc16-2e06b011b2ee)
+
+
+
 ## Model Details
 The application utilizes the bert-large-uncased-whole-word-masking-finetuned-squad.onnx model, which is fine-tuned for question-answering tasks. The model is downloaded if not found in the models directory.
 
